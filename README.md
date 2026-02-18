@@ -1,7 +1,7 @@
-<h1 align="center">✨ ALQAAB-Hub ✨</h1>
+<h1 align="center">✨ ALQAAB Hub ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3500&pause=700&color=00C9A7&center=true&vCenter=true&width=600&lines=Architects+of+Digital+Excellence.;Building+Scalable+Web+Solutions.;Where+Code+Meets+Creativity.;Transforming+Ideas+into+Reality.;Welcome+to+ALQAAB-Hub!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3500&pause=700&color=00C9A7&center=true&vCenter=true&width=700&lines=Parent+Company+of+Multiple+Innovative+Ventures.;Building+Scalable+Web+Solutions.;Where+Code+Meets+Creativity.;Transforming+Ideas+into+Reality.;Welcome+to+ALQAAB+Hub!" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -17,32 +17,52 @@
 
 ## 🌟 Who We Are
 
-**ALQAAB-Hub** is more than just a profile—it's a statement. We are dedicated to crafting powerful, scalable, and user-centric web products. Our approach blends clean code with exceptional user experiences to solve real-world problems.
+**ALQAAB Hub** is the parent company and umbrella brand behind multiple innovative ventures. We are dedicated to crafting powerful, scalable, and user-centric web products. Our approach blends clean code with exceptional user experiences to solve real-world problems.
 
 > *“Turning complex problems into simple, elegant solutions is not just our skill, it's our passion.”*
 
-### 🧠 The Mind Behind It
+### 👨‍💼 The Founder
 
-I'm **Abduah**, a passionate web developer and the founder of ALQAAB-Hub. With a focus on modern web technologies, I strive to build applications that are not only functional but also a joy to use.
+I'm **Shahbaz Ali**, a passionate web developer and the founder of **ALQAAB Hub**. Under this umbrella, we are building multiple companies and solutions that cater to different market needs. With a focus on modern web technologies, I strive to build applications that are not only functional but also a joy to use.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%">
 </p>
 
-## 🚀 What I'm Building
+## 🏛️ Our Companies & Ventures
 
-Here are the core projects currently driving the ALQAAB-Hub vision:
+**ALQAAB Hub** serves as the parent organization for the following entities:
+
+| Company/Venture | Focus Area | Status |
+| :--- | :--- | :--- |
+| **ALQAAB Solutions** | Custom Web Development & Consulting | Active |
+| **Gloves Cash Management** | Manufacturing Industry Financial Tools | Active |
+| **TaskFlow by ALQAAB** | Productivity & Task Management Tools | Active |
+| **ExpenseWise** | Personal & Business Expense Tracking | Active |
+| *More ventures coming soon...* | | |
+
+<p align="center">
+  <i>Each venture operates under the ALQAAB Hub umbrella, sharing resources and expertise.</i>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%">
+</p>
+
+## 🚀 Current Projects
+
+Here are the core projects currently driving the ALQAAB Hub vision:
 
 <div align="center">
 
-| Project | Description | Core Tech |
-| :--- | :--- | :--- |
-| [**Gloves-Cash-Management-System**](https://github.com/ALQAAB-Hub/Gloves-Cash-Management-System) | Comprehensive cash flow & expense tracker for glove manufacturing. | `HTML` `CSS` `JS` |
-| [**Expense-Manager**](https://github.com/ALQAAB-Hub/Expense-Manager) | Professional monthly budgeting with Kakebo logic & dual storage. | `HTML` `CSS` `JS` |
-| [**Task-Manager**](https://github.com/ALQAAB-Hub/Task-Manager) | Offline-first, feature-rich task manager with priorities & dark mode. | `JS` `LocalStorage` |
-| [**Task-Calendar**](https://github.com/ALQAAB-Hub/Task-Calendar) | Powerful calendar for bulk scheduling and task categorization. | `JS` |
-| [**Time-Tracker**](https://github.com/ALQAAB-Hub/Time-Tracker) | Simple, intuitive time tracking for freelancers and teams. | `JS` |
-| [**Sharing-Files**](https://github.com/ALQAAB-Hub/Sharing-Files) | Curated snippets, settings, and configs for dev efficiency. | `Markdown` |
+| Project | Description | Core Tech | Venture |
+| :--- | :--- | :--- | :--- |
+| [**Gloves-Cash-Management-System**](https://github.com/ALQAAB-Hub/Gloves-Cash-Management-System) | Comprehensive cash flow & expense tracker for glove manufacturing. | `HTML` `CSS` `JS` | Gloves Cash Management |
+| [**Expense-Manager**](https://github.com/ALQAAB-Hub/Expense-Manager) | Professional monthly budgeting with Kakebo logic & dual storage. | `HTML` `CSS` `JS` | ExpenseWise |
+| [**Task-Manager**](https://github.com/ALQAAB-Hub/Task-Manager) | Offline-first, feature-rich task manager with priorities & dark mode. | `JS` `LocalStorage` | TaskFlow by ALQAAB |
+| [**Task-Calendar**](https://github.com/ALQAAB-Hub/Task-Calendar) | Powerful calendar for bulk scheduling and task categorization. | `JS` | TaskFlow by ALQAAB |
+| [**Time-Tracker**](https://github.com/ALQAAB-Hub/Time-Tracker) | Simple, intuitive time tracking for freelancers and teams. | `JS` | ALQAAB Solutions |
+| [**Sharing-Files**](https://github.com/ALQAAB-Hub/Sharing-Files) | Curated snippets, settings, and configs for dev efficiency. | `Markdown` | ALQAAB Solutions |
 
 </div>
 
@@ -110,7 +130,7 @@ Here are the core projects currently driving the ALQAAB-Hub vision:
 </div>
 
 <p align="center">
-  <i>— Crafted with precision by ALQAAB-Hub —</i>
+  <i>— Crafted with precision by ALQAAB Hub —</i>
   <br>
   <a href="https://github.com/ALQAAB-Hub">⭐️ Return to Hub ⭐️</a>
 </p>
